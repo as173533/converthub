@@ -1,0 +1,16 @@
+/vendor
+/node_modules
+/public/hot
+/storage/*.key
+/storage/app/private/uploads/*
+/storage/app/private/conversions/*
+/storage/framework/cache/*
+/storage/framework/sessions/*
+/storage/framework/views/*
+/storage/logs/*
+/bootstrap/cache/*
+!/bootstrap/cache/.gitkeep
+/.env
+.phpunit.result.cache
+npm-debug.log
+yarn-error.log
